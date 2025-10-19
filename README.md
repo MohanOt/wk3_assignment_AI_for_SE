@@ -30,11 +30,8 @@ This project demonstrates practical and theoretical understanding of **AI tools 
    - [Task 2: Deep Learning – TensorFlow](#task-2-deep-learning--tensorflow)
    - [Task 3: NLP – spaCy](#task-3-nlp--spacy)
 4. [Part 3: Ethics & Optimization](#part-3-ethics--optimization)
-5. [Bonus Task: Model Deployment](#bonus-task-model-deployment)
 6. [Results & Screenshots](#results--screenshots)
 7. [Installation & Running](#installation--running)
-8. [Group Members](#group-members)
-9. [License](#license)
 
 ---
 
